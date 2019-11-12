@@ -1,0 +1,9 @@
+https://pypi.python.org/pypi/facturacion_electronica" rel="nofollow noreferrer noopener" target="_blank">facturacion_electronica>=0.5.4
+https://pypi.python.org/pypi/suds-jurko" rel="nofollow noreferrer noopener" target="_blank">suds-jurko
+https://pypi.python.org/pypi/num2words" rel="nofollow noreferrer noopener" target="_blank">num2words
+https://pypi.python.org/pypi/xlsxwriter" rel="nofollow noreferrer noopener" target="_blank">xlsxwriter
+https://pypi.python.org/pypi/pillow" rel="nofollow noreferrer noopener" target="_blank">pillow
+https://pypi.python.org/pypi/xmltodict" rel="nofollow noreferrer noopener" target="_blank">xmltodict
+https://pypi.python.org/pypi/dicttoxml" rel="nofollow noreferrer noopener" target="_blank">dicttoxml
+https://pypi.python.org/pypi/requests" rel="nofollow noreferrer noopener" target="_blank">requests>=2.21.0
+
